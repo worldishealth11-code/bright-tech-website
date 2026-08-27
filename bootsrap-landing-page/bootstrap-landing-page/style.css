@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blanchedalmond;
+}
+.hero{
+    background: #f0f6ff;
+    min-height: 350px;
+    display: flex;
+    align-items: center;
+}
+.card{
+    border: none;
+    transition: 0.3s;
+}
+.card:hover{
+    transform: translateY(-5px)
+}
+.uiux-title{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn btn-primary btn-lg{
+    align-items: center;
+}
+.footer text-center py-1{
+    background-color: azure;
+}
+.cards-cointainer{
+    background-color: beige;
+}
